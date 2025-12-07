@@ -4,6 +4,8 @@
 ### Scientific computation libs written in javascript
 
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
+- [Abacus](https://github.com/foo123/Abacus) - Computer Algebra System for Algebraic Number Theory and Combinatorics.
+- [SciLite](https://github.com/foo123/SciLite) - Scientific Computing Environment similar to Octave/Matlab.
 - [stdlib](https://github.com/stdlib-js/stdlib) - A fundmental library for numerical and scientific computation providing NumPy and SciPy functionality in JavaScript.
 - [numeric](https://github.com/sloisel/numeric) - Numerical analysis in Javascript.
 - [numbers.js](https://github.com/numbers/numbers.js) - Advanced Mathematics Library for Node.js and JavaScript.
